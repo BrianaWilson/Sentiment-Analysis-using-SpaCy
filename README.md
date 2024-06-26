@@ -3,7 +3,7 @@
 ### Overview
 
 This program processes and analyzes consumer reviews of Amazon products using various machine learning and natural language processing techniques. It involves cleaning the data, preprocessing the text, splitting the data into training and test sets, and then training a logistic regression model to classify the reviews.
-
+This repository is composed of a Python file which contains the code for the analysis, and a PDF file that contains the Sentiment Analysis Report. 
 
 ### Requirements 
 
